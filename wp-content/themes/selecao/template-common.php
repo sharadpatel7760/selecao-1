@@ -10,7 +10,7 @@
 get_header();
 ?>
 <main id="primary" >
-	<?php get_template_part( 'components/hero-zone/home' ); ?>
+	
 	<?php
 
 	?>
@@ -67,7 +67,7 @@ get_header();
         </g>
         </svg>
 
-    </section><!-- /Hero Section -->
+    </section>
 
 </main>
 
